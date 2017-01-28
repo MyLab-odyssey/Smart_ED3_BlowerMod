@@ -1,0 +1,6 @@
+# License
+Smart_ED3_BlowerMod
+(c) 2015 by MyLab-odyssey
+
+License: CC-BY-NC-ND 3.0  
+Lizenz: [CC-BY-NC-ND 3.0 de](https://creativecommons.org/licenses/by-nc-nd/3.0/de/)
