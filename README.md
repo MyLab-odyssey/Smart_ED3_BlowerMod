@@ -1,6 +1,6 @@
 # Smart_ED3_BlowerMod
 [![version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://github.com/MyLab-odyssey/Smart_ED3_BlowerMod/archive/master.zip)
-![issues](https://img.shields.io/badge/issues-none-brightgreen.svg)
+![issues](https://img.shields.io/badge/issues-zero-brightgreen.svg)
 [![license](https://img.shields.io/badge/license-CC_BY_NC_ND_3.0-blue.svg)](https://raw.githubusercontent.com/MyLab-odyssey/Smart_ED3_BlowerMod/master/LICENSE.txt)
 
 Adding a series resistor for silencing the vent blower of the Smart electric drive v3.
